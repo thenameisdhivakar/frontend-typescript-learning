@@ -1,11 +1,14 @@
-# Frontend TypeScript Learning
+Task Management App
 
-This project is built using React and TypeScript.
+A simple task management app built using React, TypeScript.
 
-## Available Scripts
+Added features
+1. Fetch datas from API
+2. Added UI (status, search and priority)
+3. TS included Types and interface 
 
-### npm start
-Run the app in development mode.
-
-### npm build
-Build the app for production.
+Tech Stack
+- React
+- TypeScript
+- Axios
+- JSONPlaceholder API (mock API)

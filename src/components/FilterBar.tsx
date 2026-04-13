@@ -1,9 +1,7 @@
 export default function FilterBar() {
     return (
         <div className="filter-container">
-
             <input placeholder="Search..." />
-
             <select>
                 <option value="">All Status</option>
                 <option value="completed">Completed</option>
